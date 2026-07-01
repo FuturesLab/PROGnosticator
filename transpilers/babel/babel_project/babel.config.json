@@ -1,0 +1,5 @@
+{
+  "presets": ["@babel/preset-env"],
+  "sourceType": "script",
+  "plugins": ["@babel/plugin-transform-regexp-modifiers"]
+}

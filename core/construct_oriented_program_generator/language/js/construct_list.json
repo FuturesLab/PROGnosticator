@@ -1,0 +1,10 @@
+{
+    "Variables & Scoping": [
+    "let declaration inside a for loop block",
+    "const binding with nested object structure"
+    ],
+    "Control Flow & Logical Constructs": [
+    "if statement with multiple else if branches",
+    "logical NOT operator used to toggle boolean value"
+    ]
+}

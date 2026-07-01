@@ -1,0 +1,17 @@
+
+
+Previously, you provided the above JSON object listing core C language constructs per category for the following keys:
+
+Now, your task is to generate 2 new and distinct construct usages per category—continuing from the previous set, without repeating any construct already provided.
+
+You must:
+
+Focus strictly on core C language constructs.
+
+Avoid any usage that depends on external headers or libraries.
+
+Provide the result in a valid JSON object with exactly the same keys as before.
+
+Each array must contain exactly 2 new, non-redundant usage patterns.
+
+Do not include any additional explanation, comments, or duplicate entries.

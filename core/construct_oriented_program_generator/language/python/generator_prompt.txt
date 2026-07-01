@@ -1,0 +1,11 @@
+Write a small Python 3 program that demonstrates this: {CONSTRUCTS}.
+The program must define a function named func1() that takes no parameters, demonstrates the constructs, and returns a single integer value.
+If the constructs involve defining a class, function, decorator, or custom type-like object, those definitions must be outside func1().
+func1() should logically use them and be valid Python 3.
+Avoid exceptions, file I/O, networking, randomness, external packages, and nondeterminism.
+Include only a single comment at the top describing what constructs the program is exercising.
+Do not include any other comments or explanations.
+Do not wrap the code in triple backticks or include any language tag.
+The program must include a main guard that calls func1(), stores the result in a variable named res, and prints only that result.
+There MUST NOT be any other print statements or output.
+Output only the raw Python code.

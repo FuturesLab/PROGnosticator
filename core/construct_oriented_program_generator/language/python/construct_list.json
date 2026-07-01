@@ -1,0 +1,10 @@
+{
+  "Data Types & Literals": [
+    "integer and floating-point literals",
+    "string and boolean literals"
+  ],
+  "Control Flow": [
+    "if-elif-else conditional chain",
+    "for loop over a range"
+  ]
+}

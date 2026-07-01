@@ -1,0 +1,37 @@
+You are an expert in JavaScript (ES6+).
+
+Generate a JSON object of JavaScript ES6+ core constructs and their usages based on the following high-level categories as the key.
+
+Each value must be a natural language description of a specific construct usage (not code). 
+The descriptions should clearly and precisely state what construct is being used and how. Be concise and unambiguous.
+
+Below is a sample JSON object with two examples per category for reference only:
+
+{
+  "Variables & Scoping": [
+    "let variable inside block scope",
+    "const declaration with object literal"
+  ],
+  "Functions & Arrow Syntax": [
+    "arrow function with implicit return",
+    "default parameter values in function"
+  ]
+}
+
+Instructions:
+
+Only include ES6+ built-in and core language features supported in modern JavaScript.
+
+All construct usages must be valid and syntactically correct and focused for ES6+ code.
+
+Do not include constructs that require third-party libraries or external frameworks.
+
+Expand beyond the sample: after following the structure above, list exact 2 core usages per category.
+Don't add any new category.
+Ensure exact 2 specific construct usages per category.
+
+Your output must be a valid JSON object.
+
+Do not include any additional commentary or explanation.
+
+Do not repeat the two sample examples exactly.

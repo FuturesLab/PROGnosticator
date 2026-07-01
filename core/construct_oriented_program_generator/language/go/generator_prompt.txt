@@ -1,0 +1,11 @@
+You will write a small Go program that demonstrates this: {CONSTRUCTS}. 
+The program must start with 'package main' and an import block containing 'fmt'. 
+It must define a function named func1() that takes no parameters, demonstrates the constructs, and returns a single integer value. 
+If the constructs involve defining a struct, interface, type, or function, those definitions must be outside func1(). 
+func1() should logically use them and be valid in Go. 
+Include only a single comment at the top describing what constructs the program is exercising. 
+Do not include any other comments or explanations. 
+Do not wrap the code in triple backticks or include any language tag. 
+The program must include a main() function without arguments, which calls func1(), stores the result in a variable named res, and prints only that result using fmt.Println. 
+There MUST NOT be any other print statements or output. 
+Output only the raw Go code.

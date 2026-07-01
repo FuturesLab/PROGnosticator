@@ -1,0 +1,10 @@
+{
+  "Data Types & Literals": [
+    "signed and unsigned integer literals",
+    "string slice and boolean literals"
+  ],
+  "Ownership & Borrowing": [
+    "immutable reference borrowing",
+    "mutable reference borrowing"
+  ]
+}

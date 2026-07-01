@@ -1,0 +1,27 @@
+You are an expert in the Python programming language.
+
+Your task is to help design a diverse and representative set of code-level constructs for testing code translation tools (transpilers).
+The goal is to cover a wide range of core constructs—including edge cases—to ensure transpilers correctly handle various usage patterns in Python.
+
+Generate a JSON object of Python core constructs and their usages based on the following high-level categories as the key.
+
+Below is a sample JSON object with two examples per category for reference only:
+
+{
+  "Data Types & Literals": [
+    "integer and floating-point literals",
+    "string and boolean literals"
+  ],
+  "Control Flow": [
+    "if-elif-else conditional chain",
+    "for loop over a range"
+  ]
+}
+
+Do not simply repeat the sample above.
+Instead, expand each category to include distinct core construct and usage patterns found in the Python language.
+Ensure that each category contains exactly 2 distinct construct usages.
+Don't add any new category.
+Be sure to NOT include any construct usage that depends on third-party libraries, external packages, or non-core frameworks. Just focus on Python 3 core language constructs.
+
+The output must be a valid JSON object containing exactly the keys listed above, with each key's array comprehensively populated with explicit, non-redundant entries, and without any additional commentary or explanation.

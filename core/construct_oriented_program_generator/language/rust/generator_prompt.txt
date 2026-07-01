@@ -1,0 +1,11 @@
+Write a small Rust program that demonstrates this: {CONSTRUCTS}.
+The program must define a function named func1() that takes no parameters, demonstrates the constructs, and returns a single i32 value.
+If the constructs involve defining a struct, enum, trait, type alias, or helper function, those definitions must be outside func1().
+func1() should logically use them and be valid safe Rust.
+Avoid panics, undefined behavior, unsafe code, external crates, file I/O, networking, randomness, and nondeterminism.
+Include only a single comment at the top describing what constructs the program is exercising.
+Do not include any other comments or explanations.
+Do not wrap the code in triple backticks or include any language tag.
+The program must include a main() function without arguments, which calls func1(), stores the result in a variable named res, and prints only that result using println!.
+There MUST NOT be any other print statements or output.
+Output only the raw Rust code.

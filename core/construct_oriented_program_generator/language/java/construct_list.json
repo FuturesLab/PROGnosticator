@@ -1,0 +1,10 @@
+{
+  "Data Types & Literals": [
+    "primitive int and double literals",
+    "boolean and string literals"
+  ],
+  "Control Flow": [
+    "if-else conditional statement",
+    "for loop with integer counter"
+  ]
+}

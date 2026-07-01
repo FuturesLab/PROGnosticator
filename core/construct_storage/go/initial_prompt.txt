@@ -1,0 +1,35 @@
+You are an expert in the Go programming language.
+
+Generate a JSON object of Go core constructs and their usages based on the following high-level categories as the key.
+
+Below is a sample JSON object with two examples per category for reference only:
+
+{
+  "Basic Types & Literals": [
+    "integer and floating-point literals",
+    "rune and string literals"
+  ],
+  "Composite Types": [
+    "slice of integers",
+    "map from string to int"
+  ]
+}
+
+Instructions:
+
+Only include Go's built-in and core language features.
+
+All construct usages must be valid and syntactically correct for Go.
+
+Do not include constructs that require third-party libraries or external packages beyond standard builtin, unsafe, or minimal fmt/math usage if necessary.
+
+Expand beyond the sample: after following the structure above, add 2 distinct core construct usages per category.
+
+Ensure exact 2 specific construct usages per category.
+Don't add any new category.
+Your output must be a valid JSON object.
+
+Do not include any additional commentary or explanation.
+
+Do NOT repeat the sample examples.
+

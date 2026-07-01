@@ -1,0 +1,12 @@
+Write a small Java program that demonstrates this construct: {CONSTRUCT}
+The program must define a public class named Main.
+The program must include a target static method named func1() that MUST NOT take any function arguments, demonstrates the construct, and returns a single int value related to the construct usage.
+If the construct involves defining a helper method, helper class, enum, interface, or custom type, the definition must be outside func1(), and func1() must only use or apply it logically.
+Avoid exceptions, file I/O, networking, randomness, external dependencies, and nondeterminism.
+Include only a single comment at the top describing what construct the program is exercising.
+Do not include any other comments in the code.
+Do not provide any explanation, only the program.
+Do not wrap the code in triple backticks or include any language tag.
+The program must include public static void main(String[] args), which saves the single return value of func1() into a variable res, and prints the value of res.
+There MUST NOT be any other print statements.
+Just output the raw code.
