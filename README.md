@@ -16,7 +16,7 @@ This work is presented in our paper **[PROGnosticator: Testing Source-to-Source 
   <tr>
     <td><b>Citing this repository:</b></td>
     <td>
-      <code class="rich-diff-level-one">@inproceedings{arafat:PROGnosticator, title = {PROGnosticator: Testing Source-to-Source Code Translators via Construct-oriented Fuzzing}, author = {Yeaseen Arafat and Stefan Nagy}, booktitle = {{ACM} {International} {Conference} {on} {the} {Foundations} {of} {Software} {Engineering} ({FSE})}, year = {2026},}</code>
+      <code class="rich-diff-level-one">@inproceedings{arafat:PROGnosticator, title = {PROGnosticator: Testing Source-to-Source Code Translators via Construct-oriented Fuzzing}, author = {Yeaseen Arafat and Stefan Nagy}, year = {2026}, issue_date = {July 2026}, publisher = {Association for Computing Machinery}, address = {New York, NY, USA}, volume = {3}, number = {FSE}, journal = {Proc. ACM Softw. Eng.}}</code>
     </td>
   </tr>
   <tr>
